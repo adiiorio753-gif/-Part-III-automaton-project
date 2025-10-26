@@ -19,6 +19,6 @@ Q29. Yes, different patterns emerge.
 Q31. A new array to not mix up the old and the new values. 
         If you update the state array directly in the loop, it wouldn't work correctly.
 
-Q32.
+Q32. you could update one cell at a time.
 
 Q35. There isn't an infinite amount of possibilities
